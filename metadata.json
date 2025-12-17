@@ -1,0 +1,5 @@
+{
+  "name": "ZenBookmarks",
+  "description": "A local, privacy-focused bookmark manager with nested folders, rich media support, and various export options.",
+  "requestFramePermissions": []
+}
